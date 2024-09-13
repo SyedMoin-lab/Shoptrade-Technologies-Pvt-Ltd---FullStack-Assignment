@@ -1,4 +1,4 @@
-Shopify Django App Example
+Shopify app using Python and Django
 ==========================
 
 This project makes it easy to get a Shopify app up and running with
